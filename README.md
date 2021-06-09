@@ -3,7 +3,7 @@ NVIDIA TensorRT™ 是用于高性能深度学习推理的 SDK。此 SDK 包含�
 
 ## 目录
 
-#### 1.快速开始
+### 1.快速开始
 
 - [TensorRT安装](./tutorials/quick_start.md)
 
