@@ -6,7 +6,7 @@
 
 1）从[官网](https://developer.nvidia.com/nvidia-tensorrt-download)下载与环境相匹配的tar安装包，如[TensorRT 7.0.0.11](https://developer.nvidia.com/compute/machine-learning/tensorrt/secure/7.0/7.0.0.11/tars/TensorRT-7.0.0.11.CentOS-7.6.x86_64-gnu.cuda-10.0.cudnn7.6.tar.gz)
 
-<p align="center"><img width="80%" src="docs/tensorrt_download.jpg" /></p>
+<p align="center"><img width="80%" src="../docs/tensorrt_download.jpg" /></p>
 
 2）解压安装包
 
