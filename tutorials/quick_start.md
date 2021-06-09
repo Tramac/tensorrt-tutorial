@@ -103,4 +103,4 @@ Note: 验证之前确认已经将tensorrt libs添加到环境变量中
 
 ## QA
 
-1.`cannot find -lcudnn`及[解决方案](./docs/QA_1-1.md)
+1.`cannot find -lcudnn`及[解决方案](../docs/QA_1-1.md)
