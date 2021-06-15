@@ -104,7 +104,7 @@ Install the project...
 
 ```python
 52 SWIG_OPTS = [
-53     '-I /home/bpfsrw_1/zhaoxiangming/tools/TensorRT-7.0.0.11/include',
+53     '-I/path/to/TensorRT-7.0.0.11/include',
 54     '-c++',
 55     '-modern',
 56     '-builtin',
