@@ -33,10 +33,10 @@ git submodule update --init --recursive
 ./autogen.sh
 
 ./configure
- make
- make check
- sudo make install
- sudo ldconfig
+make
+make check
+sudo make install
+sudo ldconfig
 ```
 
 **1.3 gcc=8.2**
@@ -136,8 +136,10 @@ Finished processing dependencies for onnx-tensorrt==0.1.0
 
 - [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
 - [protobuf](https://github.com/protocolbuffers/protobuf)
-
 - [swig](http://www.swig.org/Doc4.0/SWIGDocumentation.pdf)
-
 - [speeding-up-deep-learning-inference-using-tensorrt](https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt/)
 - [onnx-tensorrt-issue](https://github.com/onnx/onnx-tensorrt/issues/350)
+
+## QA
+
+- [安装问题及解决方案](../docs/A_1-2.md)
