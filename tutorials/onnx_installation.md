@@ -1,4 +1,4 @@
-# 【TensorRT-tutorial】ONNX-TensorRT安装教程
+# ONNX-TensorRT安装教程
 
 因为我们的模型是按照PyTorch—>onnx—>TensorRT的路线进行转化，所以在安装TensorRT之后，需要进一步安装onnx环境。
 
