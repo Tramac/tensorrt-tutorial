@@ -142,4 +142,4 @@ Finished processing dependencies for onnx-tensorrt==0.1.0
 
 ## QA
 
-- [安装问题及解决方案](../docs/A_1-2.md)
+- [安装问题及解决方案](../docs/QA_1-2.md)
